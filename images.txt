@@ -1,4 +1,5 @@
-portainer/portainer-ce:2.27.0-alpine
+#portainer/portainer-ce:2.27.0-alpine
+mysql:8.4.6
 #eclipse-temurin:21.0.6_7-jre-alpine-3.21
 #nginx
 #支持私库
