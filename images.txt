@@ -1,6 +1,8 @@
+python:3.11.13-alpine3.22
+
 #portainer/portainer-ce:2.27.0-alpine
 #mysql:8.4.6
-alpine:3.22.1
+#alpine:3.22.1
 #redis:8.0.3-alpine
 #eclipse-temurin:21.0.6_7-jre-alpine-3.21
 #nginx
