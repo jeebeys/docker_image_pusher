@@ -1,5 +1,6 @@
+container-registry.oracle.com/graalvm/native-image:21-muslib
 #eclipse-temurin:25-jre-alpine-3.22
-eclipse-temurin:25-jre-jammy
+#eclipse-temurin:25-jre-jammy
 #eclipse-temurin:25_36-jre-alpine
 #uozi/nginx-ui:v2.1.7
 #redis:8.2.1-alpine3.22
