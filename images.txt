@@ -1,4 +1,5 @@
-gitea/gitea:1.25.4
+jeessy/ddns-go:v6.15.0
+#gitea/gitea:1.25.4
 #sonatype/nexus3:3.89.0-alpine
 #oceanbase/seekdb:latest
 #ghcr.io/freecodecamp/devdocs:latest
