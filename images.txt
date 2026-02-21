@@ -1,4 +1,5 @@
-portainer/portainer-ce:2.38.1-alpine
+nginx/nginx-prometheus-exporter:1.5.1
+#portainer/portainer-ce:2.38.1-alpine
 #jeessy/ddns-go:v6.15.0
 #gitea/gitea:1.25.4
 #sonatype/nexus3:3.89.0-alpine
