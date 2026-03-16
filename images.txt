@@ -1,4 +1,5 @@
-mysql:8.4.8
+nats:2.12.5-alpine3.22
+#mysql:8.4.8
 #qingpan/rnacos:v0.8.1-alpine
 #redis:8.6.1-alpine3.23
 #homeassistant/home-assistant:2026.2.3
