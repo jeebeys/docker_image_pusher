@@ -1,4 +1,5 @@
-homeassistant/home-assistant:2026.2.3
+redis:8.6.1-alpine3.23
+#homeassistant/home-assistant:2026.2.3
 #uozi/nginx-ui:v2.3.3
 #nginx/nginx-prometheus-exporter:1.5.1
 #portainer/portainer-ce:2.38.1-alpine
