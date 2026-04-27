@@ -1,4 +1,5 @@
-nacos/nacos-server:v3.2.1-slim
+uozi/nginx-ui:v2.3.8
+#nacos/nacos-server:v3.2.1-slim
 #zenika/alpine-chrome:124
 #magiccoders/nginxpulse:v1.6.15
 #alpine:3.23.3
