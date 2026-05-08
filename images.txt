@@ -1,4 +1,5 @@
-emqx/nanomq:0.24.13
+redis:8.6.3-alpine3.23
+#emqx/nanomq:0.24.13
 #uozi/nginx-ui:v2.3.8
 #nacos/nacos-server:v3.2.1-slim
 #zenika/alpine-chrome:124
