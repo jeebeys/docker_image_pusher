@@ -1,5 +1,7 @@
-python:3.14.6-alpine3.23
-python:3.11.15-alpine3.23
+alpine:3.23.5
+alpine:3.24.1
+#python:3.14.6-alpine3.23
+#python:3.11.15-alpine3.23
 #node:26.3.0-alpine3.23
 #dpanel/dpanel:1.10.3
 #redis:8.6.3-alpine3.23
