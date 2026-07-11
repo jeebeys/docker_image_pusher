@@ -1,3 +1,4 @@
+tdengine/tsdb:3.4.1.6
 tdengine/tsdb:3.4.1.13
 #tdengine/tsdb-ee:3.4.1.18
 #openvino/model_server:2026.2.1
