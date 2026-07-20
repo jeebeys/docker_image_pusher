@@ -1,4 +1,5 @@
-coredns/coredns:1.10.0
+linshellfeng/datax_web:3.0.1
+#coredns/coredns:1.10.0
 #jenkins/jenkins:2.573-alpine-jdk21
 #jenkins/jenkins:alpine3.24-jdk21
 #gitea/gitea:1.26.4
