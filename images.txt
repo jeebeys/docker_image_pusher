@@ -1,4 +1,5 @@
-pengshp/dnsmasq:latest
+rancher/k3s:v1.36.2-k3s1
+#pengshp/dnsmasq:latest
 #linshellfeng/datax_web:3.0.1
 #coredns/coredns:1.10.0
 #jenkins/jenkins:2.573-alpine-jdk21
