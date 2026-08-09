@@ -1,4 +1,6 @@
-rancher/k3s:v1.36.2-k3s1
+eclipse-temurin:21-jre-alpine-3.23
+eclipse-temurin:25-jre-alpine-3.23
+#rancher/k3s:v1.36.2-k3s1
 #pengshp/dnsmasq:latest
 #linshellfeng/datax_web:3.0.1
 #coredns/coredns:1.10.0
