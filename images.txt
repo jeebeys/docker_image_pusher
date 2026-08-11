@@ -1,5 +1,6 @@
-eclipse-temurin:21-jre-alpine-3.23
-eclipse-temurin:25-jre-alpine-3.23
+xuxueli/xxl-job-admin:3.4.2
+#eclipse-temurin:21-jre-alpine-3.23
+#eclipse-temurin:25-jre-alpine-3.23
 #rancher/k3s:v1.36.2-k3s1
 #pengshp/dnsmasq:latest
 #linshellfeng/datax_web:3.0.1
