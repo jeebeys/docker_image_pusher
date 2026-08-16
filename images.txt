@@ -1,5 +1,6 @@
-rancher/mirrored-coredns-coredns:1.14.6
-rancher/mirrored-metrics-server:v0.9.0
+rancher/local-path-provisioner:v0.0.37
+#rancher/mirrored-coredns-coredns:1.14.6
+#rancher/mirrored-metrics-server:v0.9.0
 #rancher/k3s:v1.36.3-k3s1
 #rancher/k3s:v1.35.7-k3s1
 #portainer/portainer-ce:2.39.6-alpine
