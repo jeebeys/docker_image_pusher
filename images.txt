@@ -1,4 +1,6 @@
-portainer/portainer-ce:2.39.6-alpine
+rancher/k3s:v1.36.3-k3s1
+#rancher/k3s:v1.35.7-k3s1
+#portainer/portainer-ce:2.39.6-alpine
 #rabbitmq:3.13.4
 #redis:6.0.20
 #mysql:8.0.42
