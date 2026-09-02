@@ -1,4 +1,5 @@
-rancher/mirrored-pause:3.10.2
+portainer/portainer-ce:2.45.0-alpine
+#rancher/mirrored-pause:3.10.2
 #rancher/local-path-provisioner:v0.0.37
 #rancher/mirrored-coredns-coredns:1.14.6
 #rancher/mirrored-metrics-server:v0.9.0
