@@ -1,6 +1,7 @@
-node:20-alpine
-golang:1.23-alpine
-alpine:3.20
+golang:1.26-alpine
+#node:20-alpine
+#golang:1.23-alpine
+#alpine:3.20
 #portainer/portainer-ce:2.45.0-alpine
 #rancher/mirrored-pause:3.10.2
 #rancher/local-path-provisioner:v0.0.37
