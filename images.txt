@@ -1,4 +1,5 @@
-golang:1.26-alpine
+ahoowang/cosky:6.2.0
+#golang:1.26-alpine
 #node:20-alpine
 #golang:1.23-alpine
 #alpine:3.20
